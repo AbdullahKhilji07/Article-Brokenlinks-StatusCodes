@@ -8,10 +8,11 @@ function App() {
       <h1>Broken Links and HTTP Status Codes</h1>
       
       <div className="meta-info">
-        <p className="author">Written by: Abdullah Khilji</p>
-        <p className="date">Date: 2 Jan ,2025</p>
+        <p className="author"> Written by: Abdullah Khilji✍️</p>
+        <p className="date"> Date: 2 Jan, 2025📅</p>
       </div>
-      
+        <hr />
+
       <p>
         When browsing the web, you’ve likely come across pages that don’t work, accompanied by error messages like "404 Not Found." These errors occur because of broken links or problems related to HTTP status codes. Let’s explore what these terms mean, why they matter, and how they affect websites.
       </p>
